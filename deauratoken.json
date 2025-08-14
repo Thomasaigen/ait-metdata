@@ -1,0 +1,19 @@
+{
+  "name": "DeAura",
+  "symbol": "DeAura",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/deaura.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/deaura.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://deaura.io/",
+    "twitter": "https://x.com/DeAuraio",
+    "telegram": ""
+  }
+}
