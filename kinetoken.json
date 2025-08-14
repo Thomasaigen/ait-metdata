@@ -1,0 +1,19 @@
+{
+  "name": "KINE",
+  "symbol": "KINE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/kine.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/kine.png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/kinedotfun",
+    "telegram": ""
+  }
+}
