@@ -1,0 +1,19 @@
+{
+  "name": "Polarys",
+  "symbol": "POLARYS",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ragss/main/polarys.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://launchmynft.io/sol/19219",
+    "twitter": "https://x.com/Polarysland",
+    "telegram": ""
+  }
+}
