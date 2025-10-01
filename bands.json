@@ -1,0 +1,19 @@
+{
+  "name": "SMB Gen2",
+  "symbol": "SMBSTRAT",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/smb.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/smb.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.bands.fun/",
+    "twitter": "https://x.com/bandsdotfun",
+    "telegram": ""
+  }
+}
