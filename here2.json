@@ -1,0 +1,19 @@
+{
+  "name": "Here",
+  "symbol": "HERE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/here.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/here.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://werehere.fun/",
+    "twitter": "https://x.com/weareherefun",
+    "telegram": ""
+  }
+}
