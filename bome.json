@@ -1,0 +1,19 @@
+{
+  "name": "BOME Strategy",
+  "symbol": "BOME",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/bome.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/bome.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/Bome",
+    "telegram": ""
+  }
+}
