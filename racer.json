@@ -1,0 +1,19 @@
+{
+  "name": "RACER",
+  "symbol": "RACER",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/racer.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/racer.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://racer.fun/",
+    "twitter": "https://x.com/racer_dot_fun",
+    "telegram": ""
+  }
+}
