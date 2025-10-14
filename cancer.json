@@ -1,0 +1,19 @@
+{
+  "name": "Fuck Cancer",
+  "symbol": "CANCER",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/cancer.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/ait-metdata/main/cancer.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/letsfcancer",
+    "telegram": ""
+  }
+}
